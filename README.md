@@ -1,12 +1,8 @@
 # captain-the-flag
 H4Ck4Th0n Project developed in 24 hours during the Hackathon @ <Academia de Código_>.
 
-Created by Code Cadets:
-Jéssica Câmara
-Jonathas Oliveira
-Miguel Sobreiro
-Miguel Teixeira
-Pablo González
+Created by a tem of 5 Code Cadets
+
 
 This project was conceived from the One-Hit Wonder - Tubthumping from Chumbawamba. After a lyrics analysis we decided to do a WebApp as a drinking game.
 
